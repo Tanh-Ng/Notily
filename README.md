@@ -1,8 +1,8 @@
-# Notily - Note Taking App
+# Notily - Note Taking App(Work in Progress)
 
 A modern, feature-rich note-taking application built with React Native and Expo.
 
-## 🚀 Features
+##  Features
 
 - Create, edit, and delete notes
 - Rich text formatting
@@ -12,7 +12,7 @@ A modern, feature-rich note-taking application built with React Native and Expo.
 - Dark/Light theme
 - Cross-platform (iOS, Android, Web)
 
-## 📱 Tech Stack
+##  Tech Stack
 
 - **Framework**: React Native with Expo
 - **Language**: TypeScript
@@ -22,7 +22,7 @@ A modern, feature-rich note-taking application built with React Native and Expo.
 - **Navigation**: React Navigation v6
 - **UI Library**: React Native Paper (or custom components)
 
-## 🏗️ Project Structure
+##  Project Structure
 
 ```
 src/
@@ -46,7 +46,7 @@ src/
 └── styles/             # Theme and styling
 ```
 
-## 🛠️ Development
+##  Development
 
 ### Prerequisites
 
@@ -79,7 +79,7 @@ src/
 - `npm run ios` - Run on iOS device/simulator
 - `npm run web` - Run in web browser
 
-## 📦 Build & Deploy
+##  Build & Deploy
 
 ### Development Build
 ```bash
@@ -102,7 +102,7 @@ eas submit --platform ios
 eas submit --platform android
 ```
 
-## 🎨 Design Principles
+##  Design Principles
 
 - **User-First**: Intuitive and clean interface
 - **Performance**: Fast and responsive
@@ -110,7 +110,7 @@ eas submit --platform android
 - **Offline-First**: Works without internet connection
 - **Cross-Platform**: Consistent experience across all platforms
 
-## 📝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create a feature branch
